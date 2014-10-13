@@ -23,7 +23,6 @@ int main(int argc, char** argv) {
         "SCC,90000,15,485000,967000",
         "UCX,150000,15,1500000,6000000"
     };
-
     
 
     cout << "Vector, String and Streams" << endl;
